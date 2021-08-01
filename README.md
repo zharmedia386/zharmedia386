@@ -48,10 +48,11 @@
 
 ### ⚡Github Stats
 #### Statistic
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zharmedia386&show_icons=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zharmedia386&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-#### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=zharmedia386" />
+<img src="https://github-readme-stats.vercel.app/api?username=zharmedia386&&show_icons=true&count_private=true&theme=radical"/>|<img alt="zharmedia386's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zharmedia386&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
+|---|---|
 
 #### Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zharmedia386" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zharmedia386&theme=radical"/>
+
+#### Github Activity Graph
+[![zharmedia386's github activity graph](https://activity-graph.herokuapp.com/graph?username=zharmedia386&theme=redical)](https://github.com/zharmedia386/zharmedia386)
