@@ -3,9 +3,9 @@
 
 ## I'm Software Engineering Student
 
-- 🌱 I’m currently learning **Qt, OpenCV, WPF, and many others**
-- 👯 I’m looking to collaborate with other programmer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Yolo, OpenCV, Flutter, Laravel and many others**
+- 👯 I’m looking forward to collaborate with other programmer
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and watching movies
 - 📫 Feel free to contact me at **muhammadazharalauddin@gmail.com**
 
