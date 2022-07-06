@@ -17,7 +17,7 @@
 
 <img align="left" alt="instagram" width="26px" src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg'>   
 <img align="left" alt="facebook" width="26px" src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg'>   
-<img align="left" alt="LinkedIn" width="26px" src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg'>   
+<img align="left" alt="LinkedIn" width="26px" src='https://www.linkedin.com/in/m-azhar-alauddin/'>   
 <img align="left" alt="Twitter" width="26px" src='https://cdn.worldvectorlogo.com/logos/twitter-6.svg'>
 <img align="left" alt="Github" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'>   
 
