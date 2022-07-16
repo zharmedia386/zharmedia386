@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/m.azhar.alauddin1" target="_blank"><img align="left" alt="facebook" width="26px" src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg'></a>
 <a href="https://www.linkedin.com/in/m-azhar-alauddin" target="_blank"><img align="left" alt="LinkedIn" width="26px" src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg'></a>
 <a href="https://twitter.com/zharmath1" target="_blank"><img align="left" alt="Twitter" width="26px" src='https://cdn.worldvectorlogo.com/logos/twitter-6.svg'></a>
-<a href="https://github.com/zharmedia386" target="_blank"><img align="left" alt="Github" width="26px" src='https://p.kindpng.com/picc/s/128-1280233_free-files-github-github-white-logo-png-transparent.png'></a>
+<a href="https://github.com/zharmedia386" target="_blank"><img align="left" alt="Github" width="26px" style="filter: brightness(0) invert(1);" src='https://cdn.worldvectorlogo.com/logos/github-icon-1.svg'></a>
 
 <br />
 
