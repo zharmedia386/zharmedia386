@@ -46,7 +46,7 @@
 ---
 
 ### ⚡Github Stats
-#### Statistic
+#### Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=zharmedia386&&show_icons=true&count_private=true&theme=radical"/>|<img alt="zharmedia386's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zharmedia386&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" />|
 |---|---|
 
