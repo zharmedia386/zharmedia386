@@ -4,14 +4,6 @@
    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 </p>
 
-## I'm a Software Engineer
-
-- 🌱 I’m currently learning **React Native, Flutter, Deep Learning,  and many others**
-- 👯 I’m looking forward to collaborate with other programmer
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: While riding a motorcycle, I occasionally distrust the rearview mirror, then manually turn and check behind me
-- 📫 Feel free to contact me at **muhammadazharalauddin@gmail.com**
-
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="zharmedia386 spotify playing" width="350" />]()
