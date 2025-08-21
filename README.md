@@ -4,7 +4,7 @@
    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 </p>
 
-## I'm Software Engineering Student
+## I'm a Software Engineer
 
 - 🌱 I’m currently learning **React Native, Flutter, Deep Learning,  and many others**
 - 👯 I’m looking forward to collaborate with other programmer
