@@ -87,6 +87,8 @@ More on [zharmedia.com](https://zharmedia.com).
 **Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge)
 ![Cloudflare Tunnels](https://img.shields.io/badge/Cloudflare%20Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
